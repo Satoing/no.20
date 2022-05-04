@@ -8,5 +8,8 @@ UESTC第二十届程序设计校赛队伍“Ciallo World”纪念仓库
 ---
 成员：
 cpp选手，py选手<br><br>
-最后就这，哎
+最后的结果，没能跨过4道题这个坎，不然……<br><br>
+
 ![ZME35{G@UWD470I0PEI_(%F](https://user-images.githubusercontent.com/68995451/166695180-72412dd7-b236-44c2-b30b-564c54c8f5c7.png)
+
+总之是痛并快乐着（才怪呢
